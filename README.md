@@ -18,18 +18,3 @@ This is a basic calculator program built using Python and object-oriented progra
 
 - Python 3
 - Object-Oriented Programming (Classes)
-
-
-
-## How to Run
-
-1. Make sure you have Python installed (version 3.x).
-2. Clone or download this repository.
-3. Run the program using a terminal or command prompt:
-
-bash
-python calculator.py
-
-Second number (b)
-
-Operation (add, subtract, multiply, or divide)
